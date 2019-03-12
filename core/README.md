@@ -1,0 +1,3 @@
+- sql manipulate
+- provide data to gui
+- config store
